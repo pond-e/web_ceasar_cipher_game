@@ -1,6 +1,0 @@
-﻿EMSCRIPTENLINK : warning : undefined symbol: __stack_chk_fail (referenced by top-level compiled C/C++ code)
-EMSCRIPTENLINK : warning : Asyncify addlist contained a non-existing function name: Main() (Main\28\29)
-EMSCRIPTENLINK : warning : Asyncify addlist contained a non-existing function name: s3d::System::Update() (s3d::System::Update\28\29)
-EMSCRIPTENLINK : warning : Asyncify addlist contained a non-matching pattern: s3d::AudioDecoder::Decode(*) (s3d::AudioDecoder::Decode\28*\29)
-EMSCRIPTENLINK : warning : Asyncify addlist contained a non-matching pattern: s3d::Clipboard::GetText(*) (s3d::Clipboard::GetText\28*\29)
-  cipher_ceasar_game.vcxproj -> C:\Users\harut\source\repos\cipher_ceasar_game\Emscripten\Release\cipher_ceasar_game.html
